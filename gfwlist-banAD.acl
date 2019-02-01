@@ -1490,6 +1490,7 @@
 #My List
 (^|\.)www\.icheng\.tw$
 (^|\.)www\.textnow\.com$
+(^|\.)paypal\.com$
 
 # MyList
 (^|\.)apkmirror\.com$
