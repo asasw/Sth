@@ -1478,11 +1478,12 @@
 #**********************************************************************
 [proxy_list]
 
-
 #My List
 (^|\.)www\.icheng\.tw$
 (^|\.)www\.textnow\.com$
 (^|\.)paypal\.com$
+(^|\.)doubibackup\.com$
+
 
 # MyList
 (^|\.)apkmirror\.com$
