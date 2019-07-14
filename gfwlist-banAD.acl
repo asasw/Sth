@@ -1484,6 +1484,8 @@
 (^|\.)www\.textnow\.com$
 (^|\.)paypal\.com$
 (^|\.)doubibackup\.com$
+(^|\.)jiji\.cx$
+(^|\.)travis-ci\.com$
 
 
 # MyList
