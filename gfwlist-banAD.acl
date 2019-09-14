@@ -1486,13 +1486,15 @@
 (^|\.)doubibackup\.com$
 (^|\.)jiji\.cx$
 (^|\.)travis-ci\.com$
+(^|\.)jiji\.world$
+(^|\.)yahahanpo\.com$
+(^|\.)cccat\.io$
 
 
 # MyList
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
-(^|\.)cccat\.cc$
 (^|\.)cloudfront\.net$
 (^|\.)dmm\.co\.jp$
 (^|\.)gvt\w\.com$
@@ -2287,8 +2289,6 @@
 (^|\.)cbs\.ntu\.edu\.tw$
 (^|\.)cbsnews\.com$
 (^|\.)cbtc\.org\.hk$
-(^|\.)cccat\.cc$
-(^|\.)cccat\.co$
 (^|\.)ccdtr\.org$
 (^|\.)cchere\.com$
 (^|\.)ccim\.org$
