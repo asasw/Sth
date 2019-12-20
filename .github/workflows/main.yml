@@ -1,0 +1,28 @@
+name: Auto Update PAC
+
+on:
+    schedule:
+        - cron: "0 0 1 * *"
+          
+jobs:
+    PAC:
+        name: get pac
+        runs-on: ubuntu-latest
+        steps:
+        - name: Check out
+            uses: actions/checkout@v2
+
+        - name: Set the git spec
+            run: |
+            git config --global user.name "asasw"
+            git config --global user.email ${{ secrets.EMAIL }}
+
+        - name: Run the script
+            run: sh ./pac_get.sh
+
+        - name: Push
+            run: |
+            git add ./ -A
+            git commit -m "Github Action Auto Builder at `date +"%Y-%m-%d %H:%M"`"
+            git push "https://${{ secrets.GITHUB_ACCESS }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:'master' --force
+

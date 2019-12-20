@@ -3,7 +3,4 @@
 
 * ACL文件在 [ACL4SSR](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-banAD.acl) 基础上进行修改
   
-* PAC文件为 [逗比根据地](https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/other/pac.txt) 文件
-
-
-
+* PAC文件根据 [逗比根据地](https://github.com/ToyoDAdoubiBackup/doubi/blob/master/pac_get.sh) 的 pac_get.sh 脚本文件生成
