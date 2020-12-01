@@ -1,5 +1,5 @@
 /*
- * Last Updated:2020-11-01 00:15:38
+ * Last Updated:2020-12-01 00:19:37
  */
 var direct = "__DIRECT__";
 if (direct == "__DIR" + "ECT__") direct = "DIRECT;";
@@ -1430,8 +1430,8 @@ var rules = [
 	"||apiary.io",
 	".apigee.com",
 	"||apigee.com",
-	"apk-dl.com",
-	"apkdler.com/apk/view",
+	"||apk-dl.com",
+	"||apkcombo.com",
 	".apkmonk.com/app",
 	"||apkplz.com",
 	"apkpure.com",
@@ -4597,6 +4597,7 @@ var rules = [
 	"paperb.us",
 	".paradisehill.cc",
 	".paradisepoker.com",
+	"||parler.com",
 	"||parsevideo.com",
 	".partycasino.com",
 	".partypoker.com",
