@@ -1,5 +1,5 @@
 /*
- * Last Updated:2021-06-01 01:38:57
+ * Last Updated:2021-07-01 00:20:05
  */
 var direct = "__DIRECT__";
 if (direct == "__DIR" + "ECT__") direct = "DIRECT;";
@@ -3143,8 +3143,7 @@ var rules = [
 	"||git.io",
 	"|http://softwaredownload.gitbooks.io",
 	"||github.blog",
-	"github.com/getlantern",
-	"|https://gist.github.com",
+	"||github.com",
 	".github.io",
 	"||github.io",
 	"||githubusercontent.com",
@@ -4576,6 +4575,7 @@ var rules = [
 	"newyorktimes.com",
 	"||nexon.com",
 	".next11.co.jp",
+	"||nextdigital.com.hk",
 	".nextmag.com.tw",
 	".nextmedia.com",
 	"||nexton-net.jp",
@@ -6081,8 +6081,10 @@ var rules = [
 	"||toptip.ca",
 	"tora.to",
 	".torcn.com",
+	"||torlock.com",
 	".torproject.org",
 	"||torproject.org",
+	"||torrentkitty.tv",
 	"torrentprivacy.com",
 	"||torrentprivacy.com",
 	"|http://torrentproject.se",
