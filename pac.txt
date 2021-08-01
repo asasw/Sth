@@ -1,5 +1,5 @@
 /*
- * Last Updated:2021-07-01 00:20:05
+ * Last Updated:2021-08-01 00:34:25
  */
 var direct = "__DIRECT__";
 if (direct == "__DIR" + "ECT__") direct = "DIRECT;";
@@ -795,6 +795,7 @@ var rules = [
 	"||certificate-transparency.org",
 	"||chrome.com",
 	"||chromecast.com",
+	"||chromeenterprise.google",
 	"||chromeexperiments.com",
 	"||chromercise.com",
 	"||chromestatus.com",
@@ -947,6 +948,7 @@ var rules = [
 	"||api-verify.recaptcha.net",
 	"||redhotlabs.com",
 	"||registry.google",
+	"||research.google",
 	"||safety.google",
 	"||savethedate.foo",
 	"||schema.org",
@@ -960,6 +962,8 @@ var rules = [
 	"||tfhub.dev",
 	"||thinkwithgoogle.com",
 	"||tiltbrush.com",
+	"||translate.google",
+	"||tv.google",
 	"||urchin.com",
 	"||waveprotocol.org",
 	"||waymo.com",
@@ -1580,7 +1584,8 @@ var rules = [
 	".atlaspost.com",
 	"||atlaspost.com",
 	"||atdmt.com",
-	".atlanta168.com/forum",
+	".atlanta168.com",
+	"||atlanta168.com",
 	".atnext.com",
 	"||atnext.com",
 	"ice.audionow.com",
@@ -1735,6 +1740,7 @@ var rules = [
 	"|http://bit.do",
 	".bit.ly",
 	"|http://bit.ly",
+	"||bitchute.com",
 	"||bitcointalk.org",
 	".bitshare.com",
 	"||bitshare.com",
@@ -3084,6 +3090,7 @@ var rules = [
 	"||gazotube.com",
 	"||gcc.org.hk",
 	"||gclooney.com",
+	"||gclubs.com",
 	"||gcmasia.com",
 	".gcpnews.com",
 	"|http://gcpnews.com",
@@ -3119,6 +3126,7 @@ var rules = [
 	"||getmalus.com",
 	".getsocialscope.com",
 	"||getsync.com",
+	"||gettr.com",
 	"gfbv.de",
 	".gfgold.com.hk",
 	".gfsale.com",
@@ -5166,6 +5174,7 @@ var rules = [
 	"|http://raremovie.cc",
 	".raremovie.net",
 	"|http://raremovie.net",
+	"||rationalwiki.org",
 	"||rawgit.com",
 	"||rawgithub.com",
 	"||razyboard.com",
@@ -6387,6 +6396,7 @@ var rules = [
 	"||unknownspace.org",
 	".unodedos.com",
 	"unpo.org",
+	"||unstable.icu",
 	".untraceable.us",
 	"|http://untraceable.us",
 	"||uocn.org",
