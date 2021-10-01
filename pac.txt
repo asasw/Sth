@@ -1,5 +1,5 @@
 /*
- * Last Updated:2021-09-01 00:32:35
+ * Last Updated:2021-10-01 00:35:37
  */
 var direct = "__DIRECT__";
 if (direct == "__DIR" + "ECT__") direct = "DIRECT;";
@@ -163,6 +163,7 @@ var rules = [
 	"||mvg.jp",
 	".mybet.com",
 	"||mybet.com",
+	"||mypikpak.com",
 	"||nationwide.com",
 	"|http://www.nbc.com/live",
 	"||neo-miracle.com",
@@ -228,6 +229,7 @@ var rules = [
 	"||login.target.com",
 	"||rcam.target.com",
 	"||technews.tw",
+	"||terabox.com",
 	"||thinkgeek.com",
 	"||thebodyshop-usa.com",
 	"||tma.co.jp",
@@ -963,6 +965,7 @@ var rules = [
 	"||tfhub.dev",
 	"||thinkwithgoogle.com",
 	"||tiltbrush.com",
+	"||translate.goog",
 	"||translate.google",
 	"||tv.google",
 	"||urchin.com",
@@ -1570,6 +1573,7 @@ var rules = [
 	"|http://japanfirst.asianfreeforum.com/",
 	"||asiansexdiary.com",
 	"||asianwomensfilm.de",
+	"||asiaone.com",
 	".asiatgp.com",
 	".asiatoday.us",
 	"||askstudent.com",
@@ -3393,6 +3397,7 @@ var rules = [
 	"||hexieshe.com",
 	"||hexieshe.xyz",
 	"||hexxeh.net",
+	"||heyuedi.com",
 	"app.heywire.com",
 	".heyzo.com",
 	".hgseav.com",
@@ -5414,6 +5419,7 @@ var rules = [
 	"||shadowsocks.org",
 	"||shadowsocks-r.com",
 	"|http://cn.shafaqna.com",
+	"||shahit.biz",
 	".shambalapost.com",
 	".shambhalasun.com",
 	".shangfang.org",
