@@ -1,5 +1,5 @@
 /*
- * Last Updated:2021-11-01 00:34:24
+ * Last Updated:2021-12-01 00:35:55
  */
 var direct = "__DIRECT__";
 if (direct == "__DIR" + "ECT__") direct = "DIRECT;";
@@ -488,6 +488,7 @@ var rules = [
 	"||livecoin.net",
 	"||localbitcoins.com",
 	"||mercatox.com",
+	"||oanda.com",
 	"||oex.com",
 	"||okex.com",
 	"||otcbtc.com",
@@ -1094,7 +1095,6 @@ var rules = [
 	"@@||matsu-nsa.gov.tw",
 	"@@||matsucc.gov.tw",
 	"@@||moe.gov.tw",
-	"@@||mvdis.gov.tw",
 	"@@||nankan.gov.tw",
 	"@@||ncree.gov.tw",
 	"@@||necoast-nsa.gov.tw",
@@ -1170,16 +1170,16 @@ var rules = [
 	"||ja.wikipedia.org",
 	"||wikipedia.org",
 	"||data.flurry.com",
-	"page.bid.yahoo.com",
-	"tw.bid.yahoo.com",
-	"|https://tw.bid.yahoo.com",
-	"blogs.yahoo.co.jp",
+	"||page.bid.yahoo.com",
+	"||tw.bid.yahoo.com",
+	"||auctions.yahoo.co.jp",
+	"||blogs.yahoo.co.jp",
 	"||search.yahoo.co.jp",
-	"buy.yahoo.com.tw/gdsale",
-	"hk.yahoo.com",
-	"hk.knowledge.yahoo.com",
-	"tw.money.yahoo.com",
-	"hk.myblog.yahoo.com",
+	"||buy.yahoo.com.tw",
+	"||hk.yahoo.com",
+	"||hk.knowledge.yahoo.com",
+	"||tw.money.yahoo.com",
+	"||hk.myblog.yahoo.com",
 	"news.yahoo.com/china-blocks-bbc",
 	"||hk.news.yahoo.com",
 	"hk.rd.yahoo.com",
@@ -7053,6 +7053,7 @@ var rules = [
 	"||yyjlymb.xyz",
 	".yzzk.com",
 	"||yzzk.com",
+	"||z-lib.org",
 	"zacebook.com",
 	".zalmos.com",
 	"||zalmos.com",
