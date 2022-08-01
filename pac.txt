@@ -1,5 +1,5 @@
 /*
- * Last Updated:2022-07-01 01:07:17
+ * Last Updated:2022-08-01 01:11:48
  */
 var direct = "__DIRECT__";
 if (direct == "__DIR" + "ECT__") direct = "DIRECT;";
@@ -256,6 +256,7 @@ var rules = [
 	"||wheretowatch.com",
 	"||wingamestore.com",
 	"||wizcrafts.net",
+	"||wowhead.com",
 	"||vod.wwe.com",
 	"||xfinity.com",
 	"||youwin.com",
@@ -813,6 +814,7 @@ var rules = [
 	".blogspot.hk",
 	".blogspot.jp",
 	".blogspot.tw",
+	"||business.page",
 	"||certificate-transparency.org",
 	"||chrome.com",
 	"||chromecast.com",
@@ -1866,6 +1868,7 @@ var rules = [
 	"||bravotube.net",
 	".brazzers.com",
 	"||brazzers.com",
+	"||breached.to",
 	".break.com",
 	"||break.com",
 	"breakgfw.com",
@@ -2906,6 +2909,7 @@ var rules = [
 	"finler.net",
 	".firearmsworld.net",
 	"|http://firearmsworld.net",
+	"||relay.firefox.com",
 	".fireofliberty.org",
 	"||fireofliberty.org",
 	".firetweet.io",
@@ -3031,6 +3035,7 @@ var rules = [
 	"friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e",
 	"friends-of-tibet.org",
 	".friendsoftibet.org",
+	"||friendsoftibet.org",
 	"freechina.net",
 	"|http://www.zensur.freerk.com/",
 	"freevpn.nl",
@@ -5433,6 +5438,7 @@ var rules = [
 	"||seezone.net",
 	"sejie.com",
 	".sendspace.com",
+	"||sensortower.com",
 	"|http://tweets.seraph.me/",
 	"sesawe.net",
 	"||sesawe.net",
