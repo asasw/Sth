@@ -1,5 +1,5 @@
 /*
- * Last Updated:2022-08-01 01:11:48
+ * Last Updated:2022-09-01 01:03:08
  */
 var direct = "__DIRECT__";
 if (direct == "__DIR" + "ECT__") direct = "DIRECT;";
@@ -1507,7 +1507,6 @@ var rules = [
 	"aniscartujo.com",
 	"||aniscartujo.com",
 	"||anobii.com",
-	"anonymise.us",
 	".anonymitynetwork.com",
 	".anonymizer.com",
 	".anonymouse.org",
@@ -3104,6 +3103,7 @@ var rules = [
 	".gaoming.net",
 	"||gaoming.net",
 	"ganges.com",
+	"||ganjingworld.com",
 	".gaopi.net",
 	"|http://gaopi.net",
 	".gaozhisheng.org",
@@ -4900,6 +4900,7 @@ var rules = [
 	".pastie.org",
 	"||pastie.org",
 	"||blog.pathtosharepoint.com",
+	"||patreon.com",
 	"pbs.org/wgbh/pages/frontline/tankman",
 	"pbs.org/wgbh/pages/frontline/tibet",
 	"video.pbs.org",
@@ -5120,6 +5121,7 @@ var rules = [
 	"||privoxy.org",
 	"||procopytips.com",
 	"||project-syndicate.org",
+	"||proton.me",
 	"provideocoalition.com",
 	"||prosiben.de",
 	"proxifier.com",
