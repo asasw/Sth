@@ -1,5 +1,5 @@
 /*
- * Last Updated:2022-10-01 01:27:00
+ * Last Updated:2022-11-01 01:19:20
  */
 var direct = "__DIRECT__";
 if (direct == "__DIR" + "ECT__") direct = "DIRECT;";
@@ -1374,6 +1374,7 @@ var rules = [
 	"||aboluowang.com",
 	".aboutgfw.com",
 	".abs.edu",
+	"||acast.com",
 	".accim.org",
 	".aceros-de-hispania.com",
 	".acevpn.com",
@@ -1822,6 +1823,7 @@ var rules = [
 	".bmfinn.com",
 	".bnews.co",
 	"||bnews.co",
+	"||bnext.com.tw",
 	"||bnrmetal.com",
 	"boardreader.com/thread",
 	"||boardreader.com",
@@ -2916,6 +2918,7 @@ var rules = [
 	".firetweet.io",
 	"||firetweet.io",
 	"||firstpost.com",
+	"||firstrade.com",
 	".flagsonline.it",
 	"fleshbot.com",
 	".fleursdeslettres.com",
@@ -3953,6 +3956,7 @@ var rules = [
 	".juoaa.com",
 	"|http://juoaa.com",
 	"justfreevpn.com",
+	"||justhost.ru",
 	".justicefortenzin.org",
 	"justpaste.it",
 	"||justmysocks1.net",
@@ -7246,7 +7250,6 @@ var rules = [
 	"@@||khm3.googleapis.com",
 	"@@||khmdb.googleapis.com",
 	"@@||storage.googleapis.com",
-	"@@||translate.googleapis.com",
 	"@@||update.googleapis.com",
 	"@@||safebrowsing.googleapis.com",
 	"@@||cn.gravatar.com",
